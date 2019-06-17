@@ -1,0 +1,106 @@
+01 Arrays
+01 Arrays vs Lists
+02 Common Array Iterations
+03 Pairwise Array Comparisons
+04 Array Functions
+05 Searching Arrays
+06 Is Sorted Challenge
+07 Is Sorted Solution
+08 2d Arrays
+09 Iterating Over 2d Arrays
+10 2d Bounds Checking
+11 Minesweeper Challenge
+12 Minesweeper Solution
+13 Tally Sort Challenge
+14 Tally Sort Solution
+
+02 Lists
+01 Lists Out of Arrays
+02 Implementing List Push And Grow
+03 Implementing List Remove
+04 Implement List Insert
+05 List Contains Challenge
+06 List Contains Solution
+07 List Get And Set
+08 Concat Challenge
+09 Concat Solution
+
+Big-O Time Space Asymptotic Analysis
+01 Intro to Big-O
+02 Big-O of N Squared
+03 Timing Big-O of One Versus N Versus N Squared
+04 No Constants In Big-O Notation
+05 Big-O Challenge
+06 Big-O Solution
+
+04 Linked Lists
+01 Linked Lists
+02 Coding Linked Lists
+03 Linked List Manipulation Challenge
+04 Linked List Manipulation Solution
+05 Linked List Class
+06 Get At Index
+07 Remove At Index
+08 Add At Index
+09 Summarizing Arrays vs Linked Lists
+10 Prefer Manipulating Pointers to Copying Data
+
+05 Stacks
+01 Intro to Stacks
+02 Stack Implementations
+03 Stack Out of Linked List
+04 Stack Out of Array
+05 Balance Parenthesis Challenge
+06 Balance Parenthesis Solution
+07 Paren Bracket Curly Balance Challenge
+08 Paren Bracket Curly Balance Solution
+09 Condense Challenge
+10 Condense Inefficient Solution
+11 Condense Efficient Solution
+
+06 Queues
+01 Intro to Queues
+02 Implementing A Queue
+03 Josephus Challenge
+04 Josephus Solution
+05 Sieve of Eratosthenes Challenge
+06 Sieve of Eratosthenes Solution
+07 Native JS Arrays Stacks And Queues
+
+07 Recursion
+01 Intro to Recursion
+02 Recursive Fibonacci
+03 Palindrome Challenge
+04 Palindrome Hints
+05 Palindrome Solution
+06 Palindrome Bonus
+
+08 Trees
+01 Intro to Trees
+02 Iterating Over Trees
+03 Tree Sum Challenge
+04 Tree Sum Solution
+05 Tree Contains Challenge
+06 tree Contains Solution
+07 Tree Size Leaves Challenge
+08 Tree Size Leaves Solution
+09 Tree Min Max Height Challenge
+10 Tree Min Max Height Solution
+11 Binary Search Trees
+12 Binary Search Tree Add
+13 Binay Search Tree Contains Challenge
+14 Binary Search Tree Contains Solution
+15 Unbalanced Binary Search Trees
+16 Morse Code Challenge
+17 Morse Code Solution
+
+09 Hash Maps
+01 Intro to Hash Maps
+02 Handling Collisions With Linear Probing
+03 Handling Collisions By Chaining Linked Lists
+04 Coding Linked List Collisions
+
+10 Graphs
+01 Intro to Graphs
+02 Coding A Graph Class
+03 Breadth First And Depth First Traversals
